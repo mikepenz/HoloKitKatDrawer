@@ -1,3 +1,6 @@
+#DEPRECATED 
+See [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) for a updated version and further development.
+
 HoloKitKatDrawer
 ================
 
